@@ -33,9 +33,9 @@ Below are some specific achievements and future directions to realize these visi
   - **Vue.js Japan User Group**  
     I participate as a core staff member of the [Vue.js Japan User Group](https://github.com/vuejs-jp). In this role, I help organize [Vue Fes Japan](https://vuefes.jp/2024), the largest Vue.js event in Japan, held annually, as well as [community meetups](https://vuejs-meetup.connpass.com/) (mainly v-tokyo) held every few months. In 2024, I took the lead in planning and creating content for the hands-on workshops, as well as participated as a panelist.\
       <img src="https://github.com/user-attachments/assets/255866bd-c0d8-4531-8087-93353d0449c5" width="240px">
-  - **chibivue Community**  
-    In addition to being the author of chibivue, the project has evolved into a community. I manage a Discord server known as "[chibivue server](https://discord.gg/aVHvmbmSRy)," which has become a hub for people to connect, host events, and support one another. The server aims to be an open and inclusive community where anyone can participate, attracting a diverse range of people, from casual users to core Vue.js team members. I aim to expand the community further and grow it into a larger space.\
-      <img src="https://github.com/user-attachments/assets/dac4cdd7-c601-4c3f-96f7-9b42ec60dece" width="240px">
+  - **chibivue land**  
+    In addition to being the author of chibivue, the project has evolved into a community. I manage a Discord server known as "[chibivue land](https://discord.gg/aVHvmbmSRy)," which has become a hub for people to connect, host events, and support one another. The server aims to be an open and inclusive community where anyone can participate, attracting a diverse range of people, from casual users to core Vue.js team members. I aim to expand the community further and grow it into a larger space.  
+    <img src="https://github.com/user-attachments/assets/cfb62448-ecb9-42d7-8215-b032898bee27" width="320px">
 
 - **As an educator**  
   I have always loved teaching and sharing knowledge. I regularly host study sessions on the chibivue server, provide programming tutorials to community members on an ad-hoc basis, assist with presentations and writing (including planning and reviewing), and run a beginner-oriented media outlet called [Vue Beginners](https://zenn.dev/vue_beginners). I plan to continue these educational activities and expand Vue.js's reach even further.\
