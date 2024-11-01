@@ -41,12 +41,13 @@
     私は [Vue.js Japan User Group](https://github.com/vuejs-jp) のコアスタッフとして参加し、日本最大の Vue.js イベントである [Vue Fes Japan](https://vuefes.jp/2024) の運営や、数ヶ月に一度開催される [コミュニティミートアップ](https://vuejs-meetup.connpass.com/)（主に v-tokyo）の運営をサポートしています。  
     2024年には、ハンズオンワークショップの計画・コンテンツ作成を主導し、パネリストとしても参加しました。  
     <img src="https://github.com/user-attachments/assets/255866bd-c0d8-4531-8087-93353d0449c5" width="240px">
-  - **chibivue コミュニティ**  
+  - **chibivue land**  
     chibivue の著者であるだけでなく、このプロジェクトはコミュニティに成長しました。  
-    私は "[chibivue server](https://discord.gg/aVHvmbmSRy)" という Discord サーバーを管理しており、このサーバーを起点に人々がつながり、イベントを開催し、互いにサポートし合うハブとなっています。  
+    私は [chibivue land](https://discord.gg/aVHvmbmSRy) という Discord サーバーを管理しており、このサーバーを起点に人々がつながり、イベントを開催し、互いにサポートし合うハブとなっています。  
     サーバーは誰でも参加できるオープンでインクルーシブなコミュニティを目指しており、カジュアルなユーザーから Vue.js のコアメンバーまで、多様な人々が集まっています。  
     私はこのコミュニティをさらに拡大し、大きなスペースに成長させたいと考えています。  
-    <img src="https://github.com/user-attachments/assets/dac4cdd7-c601-4c3f-96f7-9b42ec60dece" width="240px">
+    <img src="https://github.com/user-attachments/assets/cfb62448-ecb9-42d7-8215-b032898bee27" width="320px">
+    
 
 - **教育者として**  
   私は教えること、知識を共有することが大好きです。  
