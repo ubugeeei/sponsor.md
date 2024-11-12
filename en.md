@@ -1,6 +1,6 @@
 # Support ubugeeei's work
 
-Hello, I am ubugeeei, a member of [Vue.js](https://github.com/vuejs) and the [Vue.js Japan User Group](https://github.com/vuejs-jp). 
+Hello, I am ubugeeei, a member of [Vue.js](https://github.com/vuejs) and the [Vue.js Japan User Group](https://github.com/vuejs-jp), owner of [chibivue land](https://github.com/chibivue-land).  
 Thank you so much for showing interest in my activities!
 
 <div align="center">
