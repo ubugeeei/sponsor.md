@@ -1,7 +1,7 @@
 # ubugeeei の活動をサポート
 
 こんにちは、ubugeeei です。  
-私は [Vue.js](https://github.com/vuejs) と [Vue.js Japan User Group](https://github.com/vuejs-jp) のメンバーです。  
+私は [Vue.js](https://github.com/vuejs) と [Vue.js Japan User Group](https://github.com/vuejs-jp) のメンバーで、[chibivue land](https://github.com/chibivue-land) のオーナーです。  
 私の活動に興味を持っていただき、本当にありがとうございます！
 
 <div align="center">
