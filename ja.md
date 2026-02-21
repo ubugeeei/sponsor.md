@@ -19,34 +19,20 @@
 ### Vue.js の一員として
 
 過去に [vuejs/vue-vapor](https://github.com/vuejs/vue-vapor) の初期開発に参加し，それがきっかけで Vue.js のメンバーとなりました．\
-現在は Vapor Mode からは離れ，[vize](https://github.com/ubugeeei/vize) の開発に注力しています．今後は [vuejs/core](https://github.com/vuejs/core) にもできる限り貢献していきたいと思っています．\
+現在は Vapor Mode からは離れ，[vize](https://github.com/ubugeeei/vize) の開発に注力しています．\
 [Evan You (@yyx990803)](https://github.com/yyx990803) による [VUECONF.US 2024 の基調講演](https://x.com/_jessicasachs/status/1791120604562686006):
-<img src="https://x.gd/TQxxY" width="480">
+
+<img src="https://x.gd/TQxxY" width="360">
 
 ### Vue.js JP の一員として
 
-私は [Vue.js JP](https://github.com/vuejs-jp) のコアスタッフとして参加し，年に一度開催される [Vue Fes Japan](https://vuefes.jp/) の運営や，数ヶ月に一度開催される [コミュニティミートアップ](https://vuejs-meetup.connpass.com/)（主に v-tokyo）の運営スタッフや登壇者として活動しています．\
-我々は全員ボランティアであり，リソースに限りがあります．私はコミュニティが持続可能であれるように，パッケージング，ドキュメンテーションなどに特に注力しています．
+私は [Vue.js JP](https://github.com/vuejs-jp) のコアスタッフとして参加し，年に一度開催される [Vue Fes Japan](https://vuefes.jp/) の運営や，数ヶ月に一度開催される [コミュニティミートアップ](https://vuejs-meetup.connpass.com/)（主に v-tokyo）の運営スタッフや登壇者として活動しています．
 
 Vue Fes Japan 2024: ハンズオンチームリーダー (https://github.com/vuejs-jp/learn.nuxt.com/) \
 Vue Fes Japan 2025: Web サイトチームリーダー (https://vuefes.jp/2025/) \
-<img src="https://github.com/user-attachments/assets/9048fb82-0cc2-48d9-8138-e619ff5d1f23" width="480" />
+Vue Fes Japan 2026: Web サイトチーム
 
-  
-### chibivue の著者として
-
-私の名前を広めるきっかけとなったプロジェクトが [chibivue](https://github.com/ubugeeei/chibivue) です．  
-Vue.js を一から作る手順を解説するハンズオン本で，国内外で広く知られるようになりました．  
-この本は，将来の Vue.js コントリビューターへのガイドとなると信じています！  
-<img src="https://github.com/ubugeeei/chibivue/raw/main/book/images/logo/chibivue-img.png" width="480px">
-
-    
-### chibivue land の創設者として
-
-chibivue は単なるオンラインブックを超えて，コミュニティに成長しました．
-[chibivue land](https://chibivue.land) という Discord サーバーを立ち上げ，人々がつながり，互いにサポートし合うハブを作りました．
-現在は運営を他のメンバーに引き継いでいます．
-    
+<img width="400" src="https://github.com/user-attachments/assets/9048fb82-0cc2-48d9-8138-e619ff5d1f23" />
 
 ### OSS 開発者として
 
@@ -54,18 +40,39 @@ Vue.js エコシステムや Web 開発をより良くするための OSS を個
 
 #### [vize](https://github.com/ubugeeei/vize)
 
-Rust で書かれた高性能な非公式 Vue.js ツールチェインです．
+Rust で書かれた高性能な非公式 Vue.js ツールチェインです．\
 SFC コンパイラ，リンター，フォーマッター，型チェッカー，SSR サポート，LSP などを含みます．
+
+<img width="400" alt="Screenshot 2026-02-22 at 1 37 56" src="https://github.com/user-attachments/assets/e2b0e0d4-f2af-465e-a056-3cc4c213830c" />
+<img width="400" alt="Screenshot 2026-02-22 at 1 37 27" src="https://github.com/user-attachments/assets/fdc98745-2880-4bbe-8b2f-e452603e979c" />
+<img width="400" alt="Screenshot 2026-02-22 at 1 39 32" src="https://github.com/user-attachments/assets/7ef0ece5-6af6-42ac-a01c-7f961ec3232f" />
+<img width="400" alt="Screenshot 2026-02-22 at 1 41 02" src="https://github.com/user-attachments/assets/93ebbb08-41b0-4e48-9749-d8bb23844524" />
 
 #### [ox-content](https://github.com/ubugeeei/ox-content)
 
-Rust で書かれた高性能なドキュメンテーションフレームワークです．
+Rust で書かれた高性能なドキュメンテーションフレームワークです．\
 GFM をサポートした高速な Markdown パーサ・レンダラを備え，Vue/React/Svelte などのフレームワークに対応しています．
+
+### chibivue の著者として
+
+私の名前を広めるきっかけとなったプロジェクトが [chibivue](https://github.com/chibivue-land/chibivue) です．  
+Vue.js を一から作る手順を解説するハンズオン本で，国内外で広く知られるようになりました．  
+この本は，将来の Vue.js コントリビューターへのガイドとなると信じています！  
+
+<img width="400" src="https://github.com/chibivue-land/chibivue/blob/main/book/online-book/src/public/og.png?raw=true">
+
+    
+### chibivue land の創設者として
+
+chibivue は単なるオンラインブックを超えて，コミュニティに成長しました．\
+[chibivue land](https://chibivue.land) という Discord サーバーを立ち上げ，人々がつながり，互いにサポートし合うハブを作りました．\
+現在は運営を他のメンバーに引き継いでいます．
+
 
 ### 教育者として
 
 私は教えること，知識を共有することが大好きです．\
-chibivue land や SNS を通じて，コミュニティメンバーにプログラミングを教えたり，登壇や執筆（企画・レビューも含む）をサポートしたりしています．
+chibivue land や SNS を通じて，コミュニティメンバーにプログラミングを教えたり，登壇や執筆（企画・レビューも含む）をサポートしたりしています．\
 今後もこれらの教育活動を継続し，Vue.js の普及をさらに広げていく予定です．\
 活動例:
 - [Reading vuejs/core-vapor](https://github.com/ubugeeei/reading-vuejs-core-vapor)
