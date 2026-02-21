@@ -3,8 +3,6 @@
 こんにちは，ubugeeei です．\
 私は [Vue.js](https://github.com/vuejs) と [Vue.js JP](https://github.com/vuejs-jp) のメンバーで，[chibivue](https://github.com/chibivue-land/chibivue) や [vize](https://github.com/ubugeeei/vize) の作者です．
 
-<img src="https://github.com/user-attachments/assets/f41085cb-59d5-40f8-8c2f-87b96044a1b3" width="480">
-
 現在，私は日中は [@mates-system](https://github.com/mates-system) でチーフエンジニアとして働いており，可処分時間で Vue.js に関連するコミュニティ活動を行っています．\
 私の努力をサポートしたり，スポンサーになりたいとお考えの方は，ぜひスポンサーシップを検討してください！
 
