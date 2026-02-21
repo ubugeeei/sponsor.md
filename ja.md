@@ -53,6 +53,8 @@ SFC コンパイラ，リンター，フォーマッター，型チェッカー�
 Rust で書かれた高性能なドキュメンテーションフレームワークです．\
 GFM をサポートした高速な Markdown パーサ・レンダラを備え，Vue/React/Svelte などのフレームワークに対応しています．
 
+<img width="400" src="https://github.com/ubugeeei/ox-content/blob/main/docs/public/og-image.png?raw=true">
+
 ### chibivue の著者として
 
 私の名前を広めるきっかけとなったプロジェクトが [chibivue](https://github.com/chibivue-land/chibivue) です．  
