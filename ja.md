@@ -1,11 +1,11 @@
 # ubugeeei の活動をサポート
 
 こんにちは，ubugeeei です．\
-私は [Vue.js](https://github.com/vuejs) と [Vue.js JP](https://github.com/vuejs-jp) のメンバーで，[chibivue land](https://github.com/chibivue-land) の王です．
+私は [Vue.js](https://github.com/vuejs) と [Vue.js JP](https://github.com/vuejs-jp) のメンバーで，[chibivue](https://github.com/chibivue-land/chibivue) や [vize](https://github.com/ubugeeei/vize) の作者です．
 
 <img src="https://github.com/user-attachments/assets/f41085cb-59d5-40f8-8c2f-87b96044a1b3" width="480">
 
-現在，私は日中は一般企業でテックリードとして働いており，可処分時間で Vue.js に関連するコミュニティ活動を行っています．\
+現在，私は日中は [@mates-system](https://github.com/mates-system) でチーフエンジニアとして働いており，可処分時間で Vue.js に関連するコミュニティ活動を行っています．\
 私の努力をサポートしたり，スポンサーになりたいとお考えの方は，ぜひスポンサーシップを検討してください！
 
 ## ビジョン
@@ -20,9 +20,9 @@
 
 ### Vue.js の一員として
 
-[vuejs/vue-vapor](https://github.com/vuejs/vue-vapor) の初期開発に参加し，それがきっかけで Vue.js のメンバーとなりました．\
-現在，アクティブなコミットは行うことができていませんが，今後 Vapor Mode だけでなく，[vuejs/core](https://github.com/vuejs/core) や [vuejs/language-tools](https://github.com/vuejs/language-tools) にもできる限り貢献していきたいと思っています．\
-[Evan You (@yyx990803)](https://github.com/yyx990803) による [VUECONF.US 2024 の基調講演](https://x.com/_jessicasachs/status/1791120604562686006):  
+過去に [vuejs/vue-vapor](https://github.com/vuejs/vue-vapor) の初期開発に参加し，それがきっかけで Vue.js のメンバーとなりました．\
+現在は Vapor Mode からは離れ，[vize](https://github.com/ubugeeei/vize) の開発に注力しています．今後は [vuejs/core](https://github.com/vuejs/core) にもできる限り貢献していきたいと思っています．\
+[Evan You (@yyx990803)](https://github.com/yyx990803) による [VUECONF.US 2024 の基調講演](https://x.com/_jessicasachs/status/1791120604562686006):
 <img src="https://x.gd/TQxxY" width="480">
 
 ### Vue.js JP の一員として
@@ -43,13 +43,26 @@ Vue.js を一から作る手順を解説するハンズオン本で，国内外�
 <img src="https://github.com/ubugeeei/chibivue/raw/main/book/images/logo/chibivue-img.png" width="480px">
 
     
-### chibivue land の運営者として
+### chibivue land の創設者として
 
-chibivue は単なるオンラインブックを超えて，コミュニティに成長しました．  
-私は [chibivue land](https://chibivue-land) という Discord サーバーを管理しており，このサーバーを起点に人々がつながり，互いにサポートし合うハブとなっています．  
-サーバーは誰でも参加で，カジュアルなユーザーから Vue.js のコアメンバーまで，多様な人々が集まっています．  
-<img src="https://github.com/user-attachments/assets/cfb62448-ecb9-42d7-8215-b032898bee27" width="480px">
+chibivue は単なるオンラインブックを超えて，コミュニティに成長しました．
+[chibivue land](https://chibivue.land) という Discord サーバーを立ち上げ，人々がつながり，互いにサポートし合うハブを作りました．
+現在は運営を他のメンバーに引き継いでいます．
     
+
+### OSS 開発者として
+
+Vue.js エコシステムや Web 開発をより良くするための OSS を個人で開発しています．
+
+#### [vize](https://github.com/ubugeeei/vize)
+
+Rust で書かれた高性能な非公式 Vue.js ツールチェインです．
+SFC コンパイラ，リンター，フォーマッター，型チェッカー，SSR サポート，LSP などを含みます．
+
+#### [ox-content](https://github.com/ubugeeei/ox-content)
+
+Rust で書かれた高性能なドキュメンテーションフレームワークです．
+GFM をサポートした高速な Markdown パーサ・レンダラを備え，Vue/React/Svelte などのフレームワークに対応しています．
 
 ### 教育者として
 
@@ -60,7 +73,10 @@ chibivue land や SNS を通じて，コミュニティメンバーにプログ�
 - [Reading vuejs/core-vapor](https://github.com/ubugeeei/reading-vuejs-core-vapor)
 - [Vue Beginners](https://zenn.dev/vue_beginners)
 - [VueYous](https://github.com/chibivue-land/vueyous)
-- [Vue.js is not Easy. It is Approachable.](https://ublog.dev/blog/vue-is-approachable)
+- [Vue.js is not Easy. It is Approachable.](https://wtrclred.io/posts/06)
+- [Characterize Vue.js](https://wtrclred.io/posts/07)
+- [What is Vue.js? It's just a language lol](https://wtrclred.io/posts/05)
+- [React is React, just.](https://wtrclred.io/posts/01)
 - [Reactive Props Destructure を支える技術](https://zenn.dev/comm_vue_nuxt/articles/reactive-props-destructure)
 - [Vue Reactivity 0:present](https://ubugeeei.github.io/v-tokyo-22)
 

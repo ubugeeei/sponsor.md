@@ -1,11 +1,11 @@
 # Supporting ubugeeei's Activities
 
 Hello, I'm ubugeeei. \
-I'm a member of [Vue.js](https://github.com/vuejs) and [Vue.js JP](https://github.com/vuejs-jp), and the king of [chibivue land](https://github.com/chibivue-land).
+I'm a member of [Vue.js](https://github.com/vuejs) and [Vue.js JP](https://github.com/vuejs-jp), and the author of [chibivue](https://github.com/chibivue-land/chibivue) and [vize](https://github.com/ubugeeei/vize).
 
 <img src="https://github.com/user-attachments/assets/f41085cb-59d5-40f8-8c2f-87b96044a1b3" width="480">
 
-Currently, I work as a tech lead at a company during the day, and spend my free time on Vue.js-related community activities. \
+Currently, I work as a chief engineer at [@mates-system](https://github.com/mates-system) during the day, and spend my free time on Vue.js-related community activities. \
 If you'd like to support my efforts or become a sponsor, please consider sponsorship!
 
 ## Vision
@@ -21,8 +21,8 @@ Below are the concrete achievements and future directions for realizing these vi
 ### As a Vue.js Team Member
 
 I participated in the initial development of [vuejs/vue-vapor](https://github.com/vuejs/vue-vapor), which led to me becoming a Vue.js team member. \
-While I'm not currently making active commits, I hope to contribute not only to Vapor Mode but also to [vuejs/core](https://github.com/vuejs/core) and [vuejs/language-tools](https://github.com/vuejs/language-tools) as much as possible in the future. \
-[VUECONF.US 2024 keynote](https://x.com/_jessicasachs/status/1791120604562686006) by [Evan You (@yyx990803)](https://github.com/yyx990803):  
+I'm no longer actively involved in Vapor Mode, and am now focused on developing [vize](https://github.com/ubugeeei/vize). I also hope to contribute to [vuejs/core](https://github.com/vuejs/core) going forward. \
+[VUECONF.US 2024 keynote](https://x.com/_jessicasachs/status/1791120604562686006) by [Evan You (@yyx990803)](https://github.com/yyx990803):
 <img src="https://x.gd/TQxxY" width="480">
 
 ### As a Vue.js JP Team Member
@@ -43,13 +43,26 @@ I believe this book serves as a guide for future Vue.js contributors!
 <img src="https://github.com/ubugeeei/chibivue/raw/main/book/images/logo/chibivue-img.png" width="480px">
 
   
-### As the Operator of chibivue land
+### As the Founder of chibivue land
 
-chibivue has grown beyond just an online book into a community.  
-I manage a Discord server called [chibivue land](https://chibivue-land), which serves as a hub where people connect and support each other.  
-The server is open to anyone, bringing together diverse people from casual users to Vue.js core members.  
-<img src="https://github.com/user-attachments/assets/cfb62448-ecb9-42d7-8215-b032898bee27" width="480px">
+chibivue has grown beyond just an online book into a community.
+I founded a Discord server called [chibivue land](https://chibivue.land), which serves as a hub where people connect and support each other.
+I have since handed over the management to other members.
   
+
+### As an OSS Developer
+
+I develop personal OSS projects to improve the Vue.js ecosystem and web development.
+
+#### [vize](https://github.com/ubugeeei/vize)
+
+A high-performance unofficial Vue.js toolchain written in Rust.
+It includes an SFC compiler, linter, formatter, type checker, SSR support, LSP, and more.
+
+#### [ox-content](https://github.com/ubugeeei/ox-content)
+
+A high-performance documentation framework written in Rust.
+It features a fast Markdown parser and renderer with GFM support, compatible with Vue/React/Svelte frameworks.
 
 ### As an Educator
 
@@ -60,7 +73,10 @@ Activity examples:
 - [Reading vuejs/core-vapor](https://github.com/ubugeeei/reading-vuejs-core-vapor)
 - [Vue Beginners](https://zenn.dev/vue_beginners)
 - [VueYous](https://github.com/chibivue-land/vueyous)
-- [Vue.js is not Easy. It is Approachable.](https://ublog.dev/blog/vue-is-approachable)
+- [Vue.js is not Easy. It is Approachable.](https://wtrclred.io/en/posts/06)
+- [Characterize Vue.js](https://wtrclred.io/en/posts/07)
+- [What is Vue.js? It's just a language lol](https://wtrclred.io/en/posts/05)
+- [React is React, just.](https://wtrclred.io/en/posts/01)
 - [Technology Behind Reactive Props Destructure](https://zenn.dev/comm_vue_nuxt/articles/reactive-props-destructure)
 - [Vue Reactivity 0:present](https://ubugeeei.github.io/v-tokyo-22)
 
