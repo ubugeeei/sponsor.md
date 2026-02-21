@@ -3,30 +3,20 @@
 Hello, I'm ubugeeei. \
 I'm a member of [Vue.js](https://github.com/vuejs) and [Vue.js JP](https://github.com/vuejs-jp), and the author of [chibivue](https://github.com/chibivue-land/chibivue) and [vize](https://github.com/ubugeeei/vize).
 
-Currently, I work as a chief engineer at [@mates-system](https://github.com/mates-system) during the day, and spend my free time on Vue.js-related community activities. \
-If you'd like to support my efforts or become a sponsor, please consider sponsorship!
-
-## Vision
-
-I have several major goals in my community activities:
-
-- Revitalize the Vue.js community in Japan
-- Design a sustainable community
-- Continue contributing to Vue.js-related OSS
-
-Below are the concrete achievements and future directions for realizing these visions!
+I work as a chief engineer at [@mates-system](https://github.com/mates-system) during the day, and spend my free time on Vue.js community activities. \
+Please consider sponsorship!
 
 ### As a Vue.js Team Member
 
-I participated in the initial development of [vuejs/vue-vapor](https://github.com/vuejs/vue-vapor), which led to me becoming a Vue.js team member. \
-I'm no longer actively involved in Vapor Mode, and am now focused on developing [vize](https://github.com/ubugeeei/vize). \
+My work on [vuejs/vue-vapor](https://github.com/vuejs/vue-vapor) led to becoming a Vue.js team member. \
+Now focused on developing [vize](https://github.com/ubugeeei/vize). \
 [Evan You (@yyx990803)](https://github.com/yyx990803)'s [VUECONF.US 2024 keynote](https://x.com/_jessicasachs/status/1791120604562686006):
 
 <img src="https://x.gd/TQxxY" width="360">
 
 ### As a Vue.js JP Team Member
 
-I participate as core staff in [Vue.js JP](https://github.com/vuejs-jp), organizing the annual [Vue Fes Japan](https://vuefes.jp/) and serving as organizing staff and speaker for [community meetups](https://vuejs-meetup.connpass.com/) (mainly v-tokyo) held every few months.
+Core staff of [Vue.js JP](https://github.com/vuejs-jp), organizing [Vue Fes Japan](https://vuefes.jp/) and [meetups](https://vuejs-meetup.connpass.com/) (mainly v-tokyo).
 
 Vue Fes Japan 2024: Hands-on Team Leader (https://github.com/vuejs-jp/learn.nuxt.com/) \
 Vue Fes Japan 2025: Website Team Leader (https://vuefes.jp/2025/) \
@@ -36,12 +26,12 @@ Vue Fes Japan 2026: Website Team
 
 ### As an OSS Developer
 
-I develop personal OSS projects to improve the Vue.js ecosystem and web development.
+I develop OSS for the Vue.js ecosystem and web development.
 
 #### [vize](https://github.com/ubugeeei/vize)
 
-A high-performance unofficial Vue.js toolchain written in Rust. \
-It includes an SFC compiler, linter, formatter, type checker, SSR support, LSP, and more.
+High-performance unofficial Vue.js toolchain in Rust. \
+Includes SFC compiler, linter, formatter, type checker, SSR, LSP, and more.
 
 <img width="400" alt="Screenshot 2026-02-22 at 1 37 56" src="https://github.com/user-attachments/assets/e2b0e0d4-f2af-465e-a056-3cc4c213830c" />
 <img width="400" alt="Screenshot 2026-02-22 at 1 37 27" src="https://github.com/user-attachments/assets/fdc98745-2880-4bbe-8b2f-e452603e979c" />
@@ -50,32 +40,32 @@ It includes an SFC compiler, linter, formatter, type checker, SSR support, LSP, 
 
 #### [ox-content](https://github.com/ubugeeei/ox-content)
 
-A high-performance documentation framework written in Rust. \
-It features a fast Markdown parser and renderer with GFM support, compatible with Vue/React/Svelte frameworks.
+High-performance documentation framework in Rust. \
+Fast GFM-compatible Markdown parser/renderer for Vue/React/Svelte.
 
 <img width="400" src="https://github.com/ubugeeei/ox-content/blob/main/docs/public/og-image.png?raw=true">
 
 ### As the Author of chibivue
 
-The project that made my name known is [chibivue](https://github.com/chibivue-land/chibivue).
-It's a hands-on guide explaining how to build Vue.js from scratch, which has become widely known both domestically and internationally.
-I believe this book serves as a guide for future Vue.js contributors!
+[chibivue](https://github.com/chibivue-land/chibivue) is the project that made my name known.
+A hands-on guide to building Vue.js from scratch, widely known domestically and internationally.
+I believe it guides future Vue.js contributors!
 
 <img width="400" src="https://github.com/chibivue-land/chibivue/blob/main/book/online-book/src/public/og.png?raw=true">
 
 
 ### As the Founder of chibivue land
 
-chibivue has grown beyond just an online book into a community. \
-I founded a Discord server called [chibivue land](https://chibivue.land), creating a hub where people connect and support each other. \
-I have since handed over the management to other members.
+chibivue grew from an online book into a community. \
+I founded [chibivue land](https://chibivue.land) on Discord as a hub for connection and support. \
+Now managed by other members.
 
 
 ### As an Educator
 
 I love teaching and sharing knowledge. \
-Through chibivue land and social media, I teach programming to community members and support their speaking and writing activities (including planning and reviews). \
-I plan to continue these educational activities and further expand Vue.js adoption. \
+Via chibivue land and social media, I teach programming and support speaking/writing activities. \
+I'll continue expanding Vue.js adoption through education. \
 Activity examples:
 - [Reading vuejs/core-vapor](https://github.com/ubugeeei/reading-vuejs-core-vapor)
 - [Vue Beginners](https://zenn.dev/vue_beginners)
@@ -89,7 +79,6 @@ Activity examples:
 
 ### Other Activities
 
-In addition to these roles, I'm involved in various Vue.js-related activities. \
-Activity examples:
+Other Vue.js-related activities:
 - [Chibi Talk!](https://x.com/search?q=%23%E3%81%A1%E3%81%B3%E3%81%A8%E3%83%BC%E3%83%BC%E3%81%8F&src=typed_query)
 - [List of Japanese Companies Using Vue.js](https://github.com/chibivue-land/japanese-companies-using-vuejs)
